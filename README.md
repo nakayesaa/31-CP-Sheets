@@ -1,0 +1,2 @@
+This repo contains my solutions to the CP-31 sheet ([link](https://www.tle-eliminators.com/cp-sheet))
+and since i don’t really do competitive programming so the code might be kinda trash but it is accepted tho, so who cares
